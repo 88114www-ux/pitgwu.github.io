@@ -1,0 +1,95 @@
+﻿Code,Name,Sector,Industry,Close,Volume,RVOL,Daily_Chg%,Weekly_Chg%,Monthly_Chg%,Daily_Amount_B,Weekly_Amount_B,Monthly_Amount_B,Market_Cap_B
+HRC=F,Steel (熱軋鋼),Index,Market Index,1320.0,260.0,9.85,3.45,3.53,7.14,0.0,0.0,0.0,0.0
+UNFI,UNFI,Consumer Defensive,Food Distribution,45.79,515893.0,0.88,2.26,3.39,1.24,0.02,0.02,0.02,2.88
+BBWI,BBWI,Consumer Cyclical,Specialty Retail,18.0,8102227.0,1.24,3.39,0.39,0.5,0.15,0.15,0.15,3.82
+ABBV,AbbVie,Healthcare,Drug Manufacturers - General,274.36,5623920.0,1.01,-2.4,2.88,4.81,1.54,1.54,1.54,500.94
+^IXIC,Nasdaq,Index,Market Index,26692.87,7640476000.0,1.05,-1.88,-3.07,2.74,203946.23,203946.23,203946.23,0.0
+KO,Coca-Cola,Consumer Defensive,Beverages - Non-Alcoholic,90.11,14523087.0,1.05,0.36,4.57,0.85,1.31,1.31,1.31,394.89
+BMY,BMY,Healthcare,Drug Manufacturers - General,56.67,14045694.0,0.96,-1.58,-4.9,-11.59,0.8,0.8,0.8,121.09
+BSP,BSP,Technology,Software - Application,37.86,19644698.0,5.35,2.21,14.48,-7.77,0.74,0.74,0.74,33.96
+RIG,RIG,Energy,Oil & Gas Drilling,5.65,57923186.0,2.08,0.89,4.63,3.67,0.33,0.33,0.33,6.23
+T,T,Communication Services,Telecom Services,22.85,57741673.0,0.86,1.6,-6.47,-13.81,1.32,1.32,1.32,157.95
+CL=F,Crude Oil (原油),Index,Market Index,94.81,2370.0,0.01,0.71,7.4,-10.41,0.0,0.0,0.0,0.0
+NU,NU,Financial Services,Banks - Regional,15.58,81811728.0,1.12,-2.69,-0.51,8.12,1.27,1.27,1.27,72.12
+CRWV,CoreWeave,Technology,Software - Infrastructure,77.81,109419566.0,4.04,-3.05,-15.17,-6.23,8.51,8.51,8.51,36.28
+INTC,Intel,Technology,Semiconductors,102.81,103750027.0,1.18,1.44,-8.61,5.78,10.67,10.67,10.67,518.67
+NRIX,NRIX,Healthcare,Biotechnology,22.13,3820989.0,1.47,-0.14,-2.08,-13.28,0.08,0.08,0.08,2.59
+PI,PI,Technology,Semiconductors,183.4,561679.0,1.4,-3.49,-0.41,5.96,0.1,0.1,0.1,5.87
+BAC,Bank of America,Financial Services,Banks - Diversified,53.96,117950601.0,3.13,-1.14,-0.24,-9.27,6.36,6.36,6.36,359.36
+TXN,Texas Inst,Technology,Semiconductors,287.85,6924604.0,1.44,2.17,-3.16,9.27,1.99,1.99,1.99,256.3
+^GSPC,S&P 500,Index,Market Index,7718.94,3388032000.0,0.68,-1.11,-1.06,1.76,26152.02,26152.02,26152.02,0.0
+NFLX,Netflix,Communication Services,Entertainment,70.46,39920482.0,1.27,-0.21,2.58,-12.28,2.81,2.81,2.81,293.85
+PLTR,Palantir,Technology,Software - Infrastructure,208.67,24103301.0,0.87,-0.16,8.64,20.4,5.03,5.03,5.03,482.94
+DAO,DAO,Consumer Defensive,Education & Training Services,18.12,66797.0,2.46,3.25,7.41,24.71,0.0,0.0,0.0,2.35
+NVDA,NVIDIA,Technology,Semiconductors,228.52,117762243.0,1.34,0.97,-4.48,8.32,26.91,26.91,26.91,5343.73
+MSTR,MicroStrategy,Technology,Software - Application,152.18,20701924.0,1.19,-0.33,-7.52,11.13,3.15,3.15,3.15,60.65
+BBD,BBD,Financial Services,Banks - Regional,4.19,42893548.0,0.81,-2.1,-7.1,18.36,0.18,0.18,0.18,46.27
+BRK-B,Berkshire,Financial Services,Insurance - Diversified,520.59,5274267.0,1.29,0.58,2.98,1.1,2.75,2.75,2.75,1126.76
+DLTR,DLTR,Consumer Defensive,Discount Stores,116.28,2007450.0,1.17,-1.13,0.08,-2.43,0.23,0.23,0.23,22.85
+LRCX,Lam Research,Technology,Semiconductor Equipment & Materials,301.11,10336294.0,1.5,-2.73,-9.82,10.1,3.11,3.11,3.11,359.06
+^SOX,PHLX Semi,Index,Market Index,11684.38,0.0,0.0,-4.3,-10.58,4.55,0.0,0.0,0.0,0.0
+HD,Home Depot,Consumer Cyclical,Home Improvement Retail,293.92,4653976.0,0.81,1.14,2.52,-5.45,1.37,1.37,1.37,294.83
+HRB,HRB,Consumer Cyclical,Personal Services,43.83,1808164.0,1.06,-1.11,2.81,-4.18,0.08,0.08,0.08,5.64
+SPCX,SPCX,Industrials,Aerospace & Defense,156.54,67600447.0,0.89,-4.21,-8.95,5.66,10.58,10.58,10.58,2005.74
+HALO,HALO,Healthcare,Biotechnology,109.62,3769034.0,1.89,-1.31,-0.09,1.56,0.41,0.41,0.41,13.26
+MU,Micron,Technology,Semiconductors,953.19,27296988.0,1.02,-3.62,-8.83,3.16,26.02,26.02,26.02,1034.27
+WMT,Walmart,Consumer Defensive,Discount Stores,112.28,25862870.0,1.55,-0.71,4.74,2.93,2.9,2.9,2.9,924.41
+MA,Mastercard,Financial Services,Credit Services,604.8,3240513.0,1.13,1.63,6.75,5.29,1.96,1.96,1.96,528.44
+MMED,MMED,Healthcare,Medical Instruments & Supplies,18.4,67620827.0,2.74,-2.13,-6.31,-16.25,1.24,1.24,1.24,4.73
+SKYD,SKYD,Communication Services,Entertainment,9.27,92277202.0,2.67,1.2,-2.73,-14.72,0.86,0.86,0.86,35.6
+UNH,UnitedHealth,Healthcare,Healthcare Plans,377.76,7759080.0,1.0,-0.2,0.38,-1.51,2.93,2.93,2.93,355.11
+V,Visa,Financial Services,Credit Services,396.06,7725378.0,1.32,1.74,6.86,5.54,3.06,3.06,3.06,734.85
+ADBE,Adobe,Technology,Software - Application,236.28,3479757.0,0.71,-0.78,-0.77,-11.04,0.82,0.82,0.82,93.67
+SNAP,SNAP,Communication Services,Internet Content & Information,6.49,47200145.0,1.11,-0.61,12.28,11.13,0.31,0.31,0.31,10.32
+XOM,Exxon Mobil,Energy,Oil & Gas Integrated,174.08,13545840.0,1.32,1.12,5.84,5.45,2.36,2.36,2.36,727.85
+JNJ,J&J,Healthcare,Drug Manufacturers - General,248.61,9651904.0,1.21,-5.73,-2.42,-6.65,2.4,2.4,2.4,611.9
+DOCU,DOCU,Technology,Software - Application,72.31,3362757.0,1.45,1.89,6.0,3.66,0.24,0.24,0.24,14.06
+CRM,Salesforce,Technology,Software - Application,238.01,6145652.0,0.9,1.75,5.79,-8.26,1.46,1.46,1.46,194.19
+NOK,NOK,Technology,Communication Equipment,9.86,85996980.0,1.25,-0.4,-10.12,2.18,0.85,0.85,0.85,52.63
+^VIX,VIX,Index,Market Index,16.87,0.0,0.0,10.48,11.87,-1.92,0.0,0.0,0.0,0.0
+AAL,AAL,Industrials,Airlines,12.5,78449384.0,1.34,-0.95,-3.85,-4.58,0.98,0.98,0.98,7.8
+AMD,AMD,Technology,Semiconductors,605.53,22119483.0,1.24,1.9,-6.76,22.72,13.39,13.39,13.39,931.85
+CHEF,CHEF,Consumer Defensive,Food Distribution,107.79,788887.0,1.44,-1.81,-3.08,-4.48,0.09,0.09,0.09,4.61
+RPRX,RPRX,Healthcare,Biotechnology,56.57,2828067.0,0.92,-2.09,0.23,-4.2,0.16,0.16,0.16,34.09
+^DJI,Dow Jones,Index,Market Index,51621.48,442523838.0,1.19,-0.09,0.86,-0.91,22843.74,22843.74,22843.74,0.0
+AMAT,Applied Mat,Technology,Semiconductor Equipment & Materials,464.24,8485340.0,1.47,-6.69,-12.45,9.44,3.94,3.94,3.94,354.44
+PLUG,PLUG,Industrials,Electrical Equipment & Parts,1.56,82725156.0,1.62,-3.7,-16.13,-24.27,0.13,0.13,0.13,2.03
+MRNA,MRNA,Healthcare,Biotechnology,216.25,16579584.0,0.77,1.17,15.36,47.42,3.59,3.59,3.59,90.35
+GFS,GFS,Technology,Semiconductors,46.7,13755528.0,2.15,-3.39,-3.97,7.26,0.64,0.64,0.64,27.28
+AVGO,Broadcom,Technology,Semiconductors,357.31,22989932.0,1.2,0.73,-4.92,3.65,8.21,8.21,8.21,1652.87
+COIN,Coinbase,Financial Services,Financial Data & Stock Exchanges,181.79,6976568.0,0.78,0.78,-2.13,-5.05,1.27,1.27,1.27,45.61
+ONDS,ONDS,Technology,Communication Equipment,6.71,67110314.0,1.1,0.6,-9.45,-7.19,0.45,0.45,0.45,3.58
+GOOG,Alphabet,Communication Services,Internet Content & Information,349.52,20028772.0,1.6,0.16,1.43,1.1,7.0,7.0,7.0,4202.82
+COST,Costco,Consumer Defensive,Discount Stores,954.63,3075440.0,1.82,-0.5,2.03,3.89,2.94,2.94,2.94,435.15
+OLLI,OLLI,Consumer Defensive,Discount Stores,88.33,2148276.0,1.31,2.19,0.66,14.68,0.19,0.19,0.19,5.53
+ORCL,Oracle,Technology,Software - Infrastructure,143.2,52013901.0,1.98,4.23,-1.08,-1.1,7.45,7.45,7.45,395.76
+AAPL,Apple,Technology,Consumer Electronics,341.27,49893047.0,1.45,0.09,2.29,2.46,17.03,17.03,17.03,5005.22
+LQDA,LQDA,Healthcare,Drug Manufacturers - Specialty & Generic,26.81,21111778.0,3.78,-3.11,3.47,-58.95,0.57,0.57,0.57,3.04
+RKT,RKT,Financial Services,Mortgage Finance,10.83,46995062.0,1.23,-0.37,-6.56,-19.42,0.51,0.51,0.51,29.82
+GRAB,GRAB,Technology,Software - Application,2.98,62622940.0,0.93,-5.4,-2.93,-1.32,0.19,0.19,0.19,11.91
+BTC-USD,Bitcoin,Crypto,Cryptocurrency,81640.86,33410236416.0,1.56,-1.75,-1.1,-3.25,2727640.41,2727640.41,2727640.41,0.0
+TSM,TSMC,Technology,Semiconductors,445.12,14977146.0,1.58,0.17,-7.71,6.49,6.67,6.67,6.67,2230.18
+ESLT,ESLT,Industrials,Aerospace & Defense,667.67,163702.0,1.59,2.12,-3.39,-7.9,0.11,0.11,0.11,32.87
+QCOM,Qualcomm,Technology,Semiconductors,176.86,11157772.0,1.26,1.39,-2.3,-1.83,1.97,1.97,1.97,184.33
+LLY,Eli Lilly,Healthcare,Drug Manufacturers - General,1166.51,3162617.0,1.6,-1.36,0.78,2.48,3.69,3.69,3.69,1077.88
+TSLA,Tesla,Consumer Cyclical,Auto Manufacturers,375.23,30868569.0,1.17,-0.74,-1.43,4.53,11.58,11.58,11.58,1450.12
+AMZN,Amazon,Consumer Cyclical,Internet Retail,258.58,34598204.0,1.07,-0.37,0.89,1.99,8.95,8.95,8.95,2740.59
+ACHC,ACHC,Healthcare,Medical Care Facilities,30.23,1926683.0,1.41,0.5,4.1,7.96,0.06,0.06,0.06,2.95
+WGS,WGS,Healthcare,Diagnostics & Research,64.96,962082.0,1.71,1.79,-9.17,-27.61,0.06,0.06,0.06,2.05
+MSFT,Microsoft,Technology,Software - Infrastructure,543.45,22251503.0,1.14,0.43,2.67,7.53,12.09,12.09,12.09,3962.94
+WULF,WULF,Financial Services,Capital Markets,13.21,57657081.0,2.07,-1.2,-11.76,-14.61,0.76,0.76,0.76,5.76
+DIS,Disney,Communication Services,Entertainment,108.58,8276454.0,0.88,0.08,4.37,-0.01,0.9,0.9,0.9,188.19
+LEGN,LEGN,Healthcare,Biotechnology,17.88,3534842.0,1.73,0.45,-4.49,-3.51,0.06,0.06,0.06,3.7
+META,Meta,Communication Services,Internet Content & Information,762.5,16151285.0,0.9,2.63,3.2,14.56,12.32,12.32,12.32,1878.89
+SMCI,Super Micro,Technology,Computer Hardware,39.07,33064278.0,1.05,-2.28,-10.1,6.34,1.29,1.29,1.29,23.51
+CIFR,CIFR,Technology,Information Technology Services,11.34,94331658.0,1.81,-12.77,-26.84,-27.47,1.07,1.07,1.07,4.13
+HG=F,Copper (銅),Index,Market Index,6.61,671.0,0.68,-1.04,0.18,3.77,0.0,0.0,0.0,0.0
+CHWY,CHWY,Consumer Cyclical,Internet Retail,19.71,8785070.0,1.11,1.08,8.65,-7.68,0.17,0.17,0.17,8.37
+PG,P&G,Consumer Defensive,Household & Personal Products,153.04,10668310.0,1.36,-0.1,3.12,4.73,1.63,1.63,1.63,363.57
+JPM,JPMorgan,Financial Services,Banks - Diversified,331.43,10236412.0,1.29,-0.86,0.05,-5.34,3.39,3.39,3.39,890.37
+GC=F,Gold (黃金),Index,Market Index,4130.0,6039.0,0.05,-1.13,-0.26,-4.68,0.02,0.02,0.02,0.0
+SI=F,Silver (白銀),Index,Market Index,55.85,1805.0,12.87,-5.59,-6.75,-11.67,0.0,0.0,0.0,0.0
+IREN,IREN,Financial Services,Capital Markets,34.8,77249064.0,1.56,0.0,-15.7,-19.39,2.69,2.69,2.69,12.04
+ETSY,ETSY,Consumer Cyclical,Internet Retail,79.28,3831386.0,1.49,3.05,11.05,6.47,0.3,0.3,0.3,7.61
+MDT,MDT,Healthcare,Medical Devices,93.01,49858758.0,0.95,1.17,6.8,-0.84,4.64,4.64,4.64,120.53
+SOFI,SOFI,Financial Services,Credit Services,15.24,91795295.0,2.5,0.07,-3.3,-13.65,1.4,1.4,1.4,18.37
